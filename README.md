@@ -1,14 +1,5 @@
-# heroku-plugins-shorthand
+# Deprecated
 
-## Installation
+This project is deprecated and is no longer being maintained.
 
-    $ heroku plugins:install https://github.com/ddollar/heroku-plugins-shorthand.git
-
-## Usage
-
-    $ heroku plugins:install heroku-pg-extras            # https://github.com/heroku/heroku-pg-extras.git
-    $ heroku plugins:install ddollar/heroku-accounts     # https://github.com/ddollar/heroku-accounts.git
-
-## License
-
-MIT
+Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
